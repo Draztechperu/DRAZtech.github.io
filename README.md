@@ -1,12 +1,16 @@
-# DRAZtech.github.io
-Perfil de emergencia personal con QR
 ---
+layout: default
+title: Perfil de Emergencia
+---
+
+# Perfil de Emergencia
+
 **Nombre:** Draztech  
-**Teléfono:** +51 600 000 000  
-**Contacto de emergencia:** +51 600 111 111  
+**Teléfono:** +51 XXX XXX XXX  
+**Contacto de emergencia:** +51 XXX XXX XXX  
 **Alergias / Medicación:** Ninguna  
-**Dirección:** Calle Ejemplo 123, Lima, Perú
+**Dirección:** Lima, Perú
 
 ---
 
-Escanea el **QR** para acceder rápido a esta información en caso de emergencia.
+Escanee el código QR para acceder a esta información en caso de emergencia.
