@@ -1,12 +1,6 @@
 # DRAZtech.github.io
 Perfil de emergencia personal con QR
 ---
-layout: default
-title: Perfil de Emergencia
----
-
-# Perfil de Emergencia
-
 **Nombre:** Draztech  
 **Teléfono:** +51 600 000 000  
 **Contacto de emergencia:** +51 600 111 111  
